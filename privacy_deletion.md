@@ -3,18 +3,21 @@ App Name: Rewire: Focus & Control
 
 Developer: Liyonelec
 
-Data Privacy Commitment:
+1. Local Data Management
+Rewire is designed with a privacy-first approach. Most of your data (behavioral logs, history, and streak data) is stored locally on your device.
 
-Rewire is a Local-First application. We do not operate any cloud servers, and we do not store your personal behavioral logs, trigger history, or streak data remotely. Your privacy is physically protected on your own device.
+In-App Deletion: You can permanently wipe all local records anytime via Settings > Clear All Personal Data. This action is immediate and cannot be undone.
 
-How to Manage & Delete Your Data:
+App Uninstallation: Uninstalling the app will also remove all locally stored data associated with it.
 
-Local Deletion: You can permanently wipe all your local records via the "Clear All Data" button in the App Settings.
+2. Account & Cloud Data Deletion
+If you have created an account for Pro features and wish to delete your entire profile:
 
-Full Removal: Uninstalling the application will automatically and immediately delete all associated data from your device.
+Request Method: Please email us at liyonelectronics@gmail.com with the subject "Data Deletion Request".
 
-Manual Requests: As we do not hold any data on our side, there is no remote data to delete. However, if you have questions regarding your data privacy, you may contact liyonelectronics@gmail.com.
+Processing Time: We will process your request and delete any associated records from our system within 7 business days.
 
-Note on Subscriptions:
+3. Subscription Management
+Important: Deleting your data or account does not automatically cancel your $29.99/year Google Play subscription.
 
-Deleting your data or uninstalling the app will not cancel your Google Play subscription. Please manage your $29.99/year subscription in the Google Play Store settings.
+Please manage or cancel your subscription manually via the Google Play Store > Payments & subscriptions.
