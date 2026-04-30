@@ -4,7 +4,7 @@ Last Updated: April 30, 2026
 
 
 
-Li Wang ("we," "our," or "us") operates the Rewire: Focus \& Control mobile application. Your privacy is our priority. This policy explains how we handle your data with a "Local-First" approach.
+We operates the Rewire: Focus \& Control mobile application. Your privacy is our priority. This policy explains how we handle your data with a "Local-First" approach.
 
 
 
